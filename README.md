@@ -28,7 +28,7 @@ expense-management-system/
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project documentation
 
-
+```
 
 ---
 
