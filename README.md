@@ -45,7 +45,7 @@ expense-management-system/
 ## 📷 Screenshots
 
 ### 📊 Dashboard View
-![Dashboard Screenshot](UI_image1.png)
+![Dashboard Screenshot](UI_image_1.png)
 
 ### ➕ Add Expense Page
 ![Add Expense Screenshot](assets/add_expense.png)
