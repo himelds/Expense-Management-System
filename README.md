@@ -44,11 +44,14 @@ expense-management-system/
 
 ## 📷 Screenshots
 
-### 📊 Dashboard View
-![Dashboard Screenshot](UI_image_1.png)
+### 📊 Add/Update Page
+![Add/Update Screenshot](UI_image_1.png)
 
-### ➕ Add Expense Page
-![Add Expense Screenshot](assets/add_expense.png)
+### ➕ Analytics by Category Page
+![ Analytics by Category Screenshot](UI_image_2.png)
+
+### ➕ Analytics by Month Page
+![Analytics by Month Screenshot](UI_image_3.png)
 
 ## Setup Instructions
 
