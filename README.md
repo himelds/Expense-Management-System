@@ -16,16 +16,19 @@ An end-to-end **Expense Management System** built with a **microservices-inspire
 
 ---
 
+
 ## 🗃️ Project Structure
 
+```bash
 expense-management-system/
-├── backend/ # FastAPI backend for handling API requests
-│ └── server.py # Entry point of backend app
-├── frontend/ # Streamlit-based UI for user interaction
-│ └── app.py # Entry point of frontend app
-├── tests/ # Unit and integration test cases
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+├── backend/              # FastAPI backend for handling API requests
+│   └── server.py         # Entry point of backend app
+├── frontend/             # Streamlit-based UI for user interaction
+│   └── app.py            # Entry point of frontend app
+├── tests/                # Unit and integration test cases
+├── requirements.txt      # Python dependencies
+└── README.md             # Project documentation
+
 
 
 ---
@@ -41,6 +44,8 @@ expense-management-system/
 - 🔌 Easily extensible for database or authentication layer
 
 ---
+
+
 
 ## 📷 Screenshots
 
