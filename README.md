@@ -19,7 +19,6 @@ An end-to-end **Expense Management System** built with a **microservices-inspire
 
 ## 🗃️ Project Structure
 
-```bash
 expense-management-system/
 ├── backend/              # FastAPI backend for handling API requests
 │   └── server.py         # Entry point of backend app
